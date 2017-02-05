@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitHelloWorld.Module
 {
-    public class Class1
+    public class ModuleBase
     {
+
     }
 }
